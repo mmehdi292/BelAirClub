@@ -13,9 +13,9 @@ import javax.mail.internet.MimeMessage;
 
 public class Email {
 	
-	final String username = "rbelairclub";
-	final String password = "A8ckaiQxapCpRV8";
-	final String frommail = "rbelairclub@gmail.com";
+	final String username = ""; //useranme
+	final String password = ""; //password
+	final String frommail = ""; // email
 	String subject;
 	String textmessage;
 
